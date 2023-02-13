@@ -1,0 +1,40 @@
+HISTORY_DICT = {
+    -1: 'misc',
+    0: 'nkmh',
+    1: 'asthma',
+    2: 'obesity',
+    3: 'hbp',
+    4: 'anxiety',
+    5: 'misc',
+    6: 'hbp',
+    7: 'diabetes',
+    8: 'copd',
+    9: 'hbp',
+    10: 'arthritis',
+    11: 'arthritis',
+    12: 'hypothyroidism',
+    13: 'diabetes',
+    14: 'migraine',
+    15: 'fibromyalgia',
+    16: 'misc'
+}
+
+SYMP_DICT = {
+    -1: 'misc',
+    0: 'unevaluable',
+    1: 'breakthrough',
+    2: 'admin_error',
+    3: 'breakthrough',
+    4: 'admin_error',
+    5: 'admin_error',
+    6: 'admin_error',
+    7: 'tinnitus_cerebrovascular',
+    8: 'breakthrough',
+    9: 'admin_error',
+    10: 'pregnancy',
+    11: 'site_pain_erythema',
+    12: 'admin_error',
+    13: 'site_pain_erythema',
+    14: 'menstrual_bleeding',
+    15: 'misc'
+}
